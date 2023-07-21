@@ -1,0 +1,8 @@
+.analyticdiv{
+    display: flex;
+    flex-flow: column;
+}
+.analyticsview{
+    display: flex;
+    flex-flow: row;
+}

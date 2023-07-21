@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color:#46566B;
+    height: 2.5cm;
+
+  }
+  .logo-flex{
+  
+    display: grid;
+    grid-template-columns: auto auto auto;
+   
+}
+ .logo-item{
+     width: 500px;
+
+ }
+  
